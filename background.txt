@@ -3,3 +3,4 @@ Web Application for count the guest
 -manage user
 -view statistic
 -make report
+-guest check in
